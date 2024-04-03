@@ -1,6 +1,6 @@
 spring:
    application:
-         name: default-profile 
+         name: hotel-rattiinnggiinngg 
 eureka:
   client:
     fetch-registry: true
